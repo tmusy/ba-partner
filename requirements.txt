@@ -1,0 +1,4 @@
+Flask-RESTful==0.3.6
+flask_sqlalchemy==2.3.2
+Flask-Migrate
+psycopg2-binary
