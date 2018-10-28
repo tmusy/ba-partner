@@ -1,0 +1,103 @@
+name,Stars,HP,ATK,DEF,SPD,CR,CRD,RES,HIT,color,type,Leader Skill,Tier
+Nomad King,5,4879,469,367,99,15,50,15,0,Red (Brave),ATK,DEF 50% - RED,4
+Nomad King,5,7544,328,330,99,15,50,15,0,Blue (Wise),DEF,DEF 50% - BLUE,5
+Nomad King,5,4447,402,463,99,15,50,15,0,Green (Wild),SUP,DEF 50% - GREEN,4
+Colonel,5,5797,497,278,94,15,50,15,0,Red (Brave),SUP,HP 50% - RED,4
+Colonel,5,5947,281,485,94,15,50,15,0,Blue (Wise),SUP,HP 50% - BLUE,5
+Colonel,5,6705,280,435,94,15,50,15,0,Green (Wild),SUP,HP 50% - GREEN,5
+God of Earth,5,5761,424,354,93,15,50,15,0,Red (Brave),ATK,ATK 33% - ALL,5
+God of Earth,5,5814,387,387,92,15,50,15,0,Blue (Wise),DEF,HP 33% - ALL,5
+God of Earth,5,4799,534,308,97,15,50,15,0,Green (Wild),SUP,SPD 24% - ALL,5
+Mr Dagger,5,6988,332,364,99,15,50,15,0,Red (Brave),DEF,RES 41% - ALL,4
+Mr Dagger,5,4455,574,291,99,15,50,15,0,Blue (Wise),ATK,CR  24% - ALL,4
+Mr Dagger,5,5938,394,372,99,15,50,15,0,Green (Wild),ATK,HIT 41% - ALL,4
+Long Face,5,6652,347,371,100,15,50,15,0,Red (Brave),,HIT 41% - ALL,4
+Long Face,5,4597,447,408,92,15,50,15,0,Blue (Wise),,ATK  33% - ALL,4
+Long Face,5,5523,425,369,103,15,50,15,0,Green (Wild),,DEF 50% - GREEN,5
+Desert Prince,5,5647,472,314,100,15,50,15,0,Red (Brave),,DEF 50% - RED,5
+Desert Prince,5,5814,387,387,99,15,50,15,0,Blue (Wise),,DEF 50% - BLUE,4
+Desert Prince,5,5417,479,321,110,15,50,15,0,Green (Wild),,DEF 50% - GREEN,5
+Ursa Huntress,5,4711,481,367,105,15,50,15,0,Red (Brave),,SPD 30% - RED,4
+Ursa Huntress,5,5814,387,387,100,15,50,15,0,Blue (Wise),,SPD 30% - BLUE,4
+Ursa Huntress,5,5038,454,372,98,15,50,15,0,Green (Wild),,SPD 30% - GREEN,4
+Bloodthir. Warmaiden,5,5744,499,319,101,15,50,15,0,Red (Brave),,DEF 50% - RED,3
+Bloodthir. Warmaiden,5,7720,322,324,107,15,50,15,0,Blue (Wise),,DEF 50% - BLUE,4
+Bloodthir. Warmaiden,5,5814,387,387,102,15,50,15,0,Green (Wild),,DEF 50% - GREEN,3
+Isylord,5,5408,501,300,100,15,50,15,0,Red (Brave),,SPD 30% - RED,4
+Isylord,5,4420,525,342,99,15,50,15,0,Blue (Wise),,SPD 30% - BLUE,4
+Isylord,5,6502,382,347,103,15,50,15,0,Green (Wild),,SPD 30% - GREEN,4
+Blaz'axe,5,5620,505,282,100,15,50,15,0,Red (Brave),,HIT 41% - ALL,3
+Blaz'axe,5,5814,387,387,99,15,50,15,0,Blue (Wise),,CR 24% - ALL,3
+Blaz'axe,5,5214,447,368,103,15,50,15,0,Green (Wild),,RES 41% - ALL,3
+Prophet,5,6105,361,394,108,15,50,15,0,Red (Brave),,ATK 33% - ALL,3
+Prophet,5,5717,413,368,100,15,50,15,0,Blue (Wise),,ATK 33% - ALL,3
+Prophet,5,6008,374,387,105,15,50,15,0,Green (Wild),,ATK 33% - ALL,3
+Demon Killer,4,6661,425,196,102,15,50,15,0,Red (Brave),ATK,ATK 25% - ALL,3
+Demon Killer,4,6044,409,252,102,15,50,15,0,Blue (Wise),ATK,DEF 25% - ALL,3
+Demon Killer,4,7155,265,322,102,15,50,15,0,Green (Wild),ATK,ATK 25% - ALL,5
+Drum Beater,4,6247,278,371,103,15,50,15,0,Red (Brave),ATK,None,5
+Drum Beater,4,6564,257,371,100,15,50,15,0,Blue (Wise),ATK,None,1
+Drum Beater,4,6388,358,281,103,15,50,15,0,Green (Wild),SUP,None,1
+Catfish Fighter,4,5329,355,355,102,15,50,15,0,Red (Brave),ATK,None,3
+Catfish Fighter,4,5999,442,223,102,15,50,15,0,Blue (Wise),ATK,None,3
+Catfish Fighter,4,6264,349,298,102,15,50,15,0,Green (Wild),SUP,None,4
+Scarecrow,4,5744,224,458,102,15,50,15,0,Red (Brave),DEF,DEF 25% - ALL,1
+Scarecrow,4,4173,504,283,102,15,50,15,0,Blue (Wise),ATK,HP 15% - ALL,1
+Scarecrow,4,5523,317,379,102,15,50,15,0,Green (Wild),ATK,ATK 25% - ALL,5
+Mr. Football,4,3176,604,249,97,15,50,15,0,Red (Brave),ATK,ATK 40% - RED,4
+Mr. Football,4,5047,394,335,100,15,50,15,0,Blue (Wise),,ATK 40% - BLUE,1
+Mr. Football,4,3961,465,335,99,15,50,15,0,Green (Wild),,ATK 40% - GREEN,1
+Double-Blade Girl,4,4535,456,307,101,15,50,15,0,Red (Brave),ATK,ATK 40% - RED,4
+Double-Blade Girl,4,4411,483,288,101,15,50,15,0,Blue (Wise),ATK,ATK 40% - BLUE,1
+Double-Blade Girl,4,4111,491,299,101,15,50,15,0,Green (Wild),ATK,ATK 40% - GREEN,4
+Little Flower,4,7147,302,287,101,15,50,15,0,Red (Brave),,None,1
+Little Flower,4,5717,321,362,101,15,50,15,0,Blue (Wise),,None,1
+Little Flower,4,6149,309,345,101,15,50,15,0,Green (Wild),,None,3
+Jello,4,5911,297,374,95,15,50,15,0,Red (Brave),,None,4
+Jello,4,5708,302,380,96,15,50,15,0,Blue (Wise),,None,3
+Jello,4,5911,297,374,96,15,50,15,0,Green (Wild),,None,4
+Fierce Beast,4,5329,355,355,100,15,50,15,0,Red (Brave),DEF,DEF 25% - ALL,3
+Fierce Beast,4,6864,399,208,100,15,50,15,0,Blue (Wise),SUP,DEF 25% - ALL,3
+Fierce Beast,4,7420,282,288,100,15,50,15,0,Green (Wild),DEF,DEF 25% - ALL,4
+Guitarist,4,6591,249,377,95,15,50,15,0,Red (Brave),SUP,DEF 40% - RED,5
+Guitarist,4,4058,442,352,95,15,50,15,0,Blue (Wise),SUP,DEF 40% - BLUE,1
+Guitarist,4,4826,415,328,95,15,50,15,0,Green (Wild),SUP,DEF 40% - GREEN,3
+Black Shaman,4,7420,223,347,104,15,50,15,0,Red (Brave),ATK,SPD 19% - ALL,1
+Black Shaman,4,6502,401,230,104,15,50,15,0,Blue (Wise),ATK,SPD 19% - ALL,5
+Black Shaman,4,5982,425,241,105,15,50,15,0,Green (Wild),ATK,SPD 19% - ALL,1
+Marksman,4,3864,529,278,89,15,50,15,0,Red (Brave),ATK,None,1
+Marksman,4,4561,464,297,89,15,50,15,0,Blue (Wise),ATK,None,1
+Marksman,4,3626,559,264,89,15,50,15,0,Green (Wild),DEF,None,3
+Smilodon,4,4535,456,307,97,15,50,15,0,Red (Brave),ATK,ATK 40% - RED,1
+Smilodon,4,4535,456,307,93,15,50,15,0,Blue (Wise),ATK,ATK 40% - BLUE,5
+Smilodon,4,4535,456,307,95,15,50,15,0,Green (Wild),ATK,ATK 40% - GREEN,1
+Lil' Ghost,4,5329,355,355,91,15,50,15,0,Red (Brave),DEF,DEF 25% - ALL,3
+Lil' Ghost,4,5329,355,355,91,15,50,15,0,Blue (Wise),SUP,DEF 25% - ALL,3
+Lil' Ghost,4,4941,361,374,91,15,50,15,0,Green (Wild),DEF,DEF 25% - ALL,4
+Boar,3,5047,153,478,88,15,50,15,0,Red (Brave),DEF,None,1
+Boar,3,4676,179,477,86,15,50,15,0,Blue (Wise),DEF,None,4
+Boar,3,4976,158,478,91,15,50,15,0,Green (Wild),DEF,HP 30% - GREEN,1
+Berserker,3,5673,289,301,98,15,50,15,0,Red (Brave),DEF,None,1
+Berserker,3,7102,199,295,98,15,50,15,0,Blue (Wise),DEF,None,4
+Berserker,3,5161,175,449,98,15,50,15,0,Green (Wild),DEF,None,1
+Bearpaw,3,5788,411,164,99,15,50,15,0,Red (Brave),,HIT 15% - ALL,1
+Bearpaw,3,4685,199,448,100,15,50,15,0,Blue (Wise),,ATK 15% - ALL,1
+Bearpaw,3,6802,231,276,100,15,50,15,0,Green (Wild),ATK,RES 15% - ALL,3
+Dragonman,3,3952,447,258,110,15,50,15,0,Red (Brave),,None,1
+Dragonman,3,5664,312,271,110,15,50,15,0,Blue (Wise),,None,1
+Dragonman,3,4402,219,455,110,15,50,15,0,Green (Wild),SUP,None,5
+Bonefist,3,6044,300,265,100,15,50,15,0,Red (Brave),DEF,DEF 30% - RED,1
+Bonefist,3,5938,254,318,100,15,50,15,0,Blue (Wise),DEF,DEF 30% - BLUE,1
+Bonefist,3,5126,175,451,100,15,50,15,0,Green (Wild),ATK,DEF 30% - GREEN,1
+Blonde Beauty,3,3441,489,249,101,15,50,15,0,Red (Brave),ATK,None,1
+Blonde Beauty,3,5876,286,290,103,15,50,15,0,Blue (Wise),SUP,RES 20% - ALL,1
+Blonde Beauty,3,3608,408,227,103,15,50,15,0,Green (Wild),SUP,None,1
+Wolf,3,3749,452,266,107,15,50,15,0,Red (Brave),ATK,None,1
+Wolf,3,6502,221,314,107,15,50,15,0,Blue (Wise),DEF,SPD 23% - BLUE,1
+Wolf,3,4861,195,449,107,15,50,15,0,Green (Wild),DEF,SPD 23% - GREEN,1
+Zyra,3,4208,408,279,101,15,50,15,0,Red (Brave),ATK,CR 23% - RED,1
+Zyra,3,4147,377,314,102,15,50,15,0,Blue (Wise),DEF,CR 23% - BLUE,1
+Zyra,3,3467,449,287,104,15,50,15,0,Green (Wild),DEF,CR 23% - GREEN,1
+Bird Shaman,3,5479,330,272,96,15,50,15,0,Red (Brave),ATK,None,1
+Wolf,3,6511,223,311,96,15,50,15,0,Blue (Wise),DEF,None,1
+Wolf,3,3855,458,252,96,15,50,15,0,Green (Wild),DEF,None,1
