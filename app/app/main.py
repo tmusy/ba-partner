@@ -7,6 +7,7 @@ from .config import DefaultConfig
 from .extensions import db, migration
 
 from .models.user import User
+from .models.partner import Partner
 
 
 # For import *
